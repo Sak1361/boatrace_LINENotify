@@ -545,49 +545,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                       <tbody>
                         <tr class="is-p10-0">
-                          <td>2021/02/17<br/>～<br/>2021/02/22<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_14.png width="45" height="16" alt=鳴門  orteus="true" /></td>
+                          <td>2021/05/31<br/>～<br/>2021/06/05<br></td>
+                          <td><img src=/static_extra/pc/images/text_place1_02.png width="45" height="16" alt=戸田  orteus="true" /></td>
                               
                               
                           
-                          <td class="is-p10-5 is-ippan is-venus"></td>
-                          <td class=is-morning></td>
-
-                          
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=14&hd=20210217">ヴィーナス第２２戦なるちゃんバースデー５周年記念</a></td>
-                          
-                          
-
-                        </tr>
-                      </tbody>
-                      
-
-    
-  
-    
-
-    
-
-
-                      
-
-    
-      
-
-
-
-                      <tbody>
-                        <tr class="is-p10-0">
-                          <td>2021/03/01<br/>～<br/>2021/03/06<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_04.png width="45" height="16" alt=平和島  orteus="true" /></td>
-                              
-                              
-                          
-                          <td class="is-p10-5 is-ippan is-venus"></td>
+                          <td class="is-p10-5 is-G3b is-lady"></td>
                           <td class=&nbsp;></td>
 
                           
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=04&hd=20210301">マクール杯　ヴィーナスシリーズ第２３戦</a></td>
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=02&hd=20210531">オールレディース・第５４回東京中日スポーツ杯</a></td>
                           
                           
 
@@ -611,8 +578,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                       <tbody>
                         <tr class="is-p10-0">
-                          <td>2021/03/20<br/>～<br/>2021/03/25<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_24.png width="45" height="16" alt=大村  orteus="true" /></td>
+                          <td>2021/06/18<br/>～<br/>2021/06/23<br></td>
+                          <td><img src=/static_extra/pc/images/text_place1_01.png width="45" height="16" alt=桐生  orteus="true" /></td>
                               
                               
                           
@@ -620,7 +587,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td class=is-nighter></td>
 
                           
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=24&hd=20210320">オールレディース第１５回蛭子能収杯</a></td>
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=01&hd=20210618">第５４回日刊スポーツ杯　オールレディース</a></td>
                           
                           
 
@@ -747,7 +714,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li><a href="/owpc/pc/extra/privacy.html">プライバシーポリシー</a></li>
             <li><a href="/owpc/pc/extra/sitemap.html">サイトマップ</a></li>
             <li><a href="/owpc/pc/support/opinion">ご意見・ご要望</a></li>
-            <li><a href="/owpc/pc/extra/relation/index.html">関係団体</a></li>
+            <li><a href="/owpc/pc/extra/relation/index.html">ボートレース関係団体</a></li>
             <li><a href="/owpc/pc/extra/mailmag/index.html">メールマガジン購読</a></li>            
             <li><a href="/owpc/pc/extra/tb/support/tblink/index.html">テレボートリンク</a></li>
           </ul><!-- /.footerNav2_links -->
@@ -771,6 +738,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--------------------▲▲ dynamic_parts END▲▲ -------------------->
     </div><!-- /.l-footer -->
     <script src="/static_extra/pc/js/main.js"></script>
-  <script type="text/javascript" >var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/7e927fdbui198b1e2343128cf101e0']); </script><script type="text/javascript"  src="/webcontent/7e927fdbui198b1e2343128cf101e0"></script></body>
+  <script type="text/javascript" >var _cf = _cf || [];  _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/0c11df3aui2027af871a83c3e681c2']); </script><script type="text/javascript"  src="/webcontent/0c11df3aui2027af871a83c3e681c2"></script></body>
 
 </html>

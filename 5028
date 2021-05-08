@@ -490,11 +490,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                   
                   
-                  <div class="text">
-                    <p>※ 出走の予定はありません</p>
-                  </div><!-- /.text -->
                   
                   
+
+                  <div class="table1">
+                    <table class="is-w832">
+
+                      <colgroup span="1" style="width:94px"></colgroup>
+                      <colgroup span="1" style="width:68px"></colgroup>
+                      <colgroup span="1" style="width:56px"></colgroup>
+                      <colgroup span="1" style="width:38px"></colgroup>
+                      <colgroup span="1" style="width:464px"></colgroup>
+                      <colgroup span="1" style="width:56px"></colgroup>
+                      <colgroup span="1" style="width:56px"></colgroup>
+                      <thead>
+                        <th>日付</th>
+                        <th>ボート<br>レース場</th>
+                        <th colspan="3">グレード/開催時間帯/タイトル</th>
+                        <th>1走</th>
+                        <th>2走</th>
+                      </thead>
+                      <tbody>
+                        <tr class="is-p10-0">
+                          <td>2021/05/08</td>
+                          <td>
+                          <img src=/static_extra/pc/images/text_place1_19.png width="45" height="16" alt=下関 orteus="true" /></td>
+                          
+                             
+                          
+                          
+                          
+                          <td class="is-p10-5 is-ippan "></td>
+                          <td class=is-nighter></td>
+
+                          
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/raceindex?jcd=19&hd=20210508">モーヴィ下関オープン２周年記念　モーヴィ下関杯</a></td>
+                          
+                          
+
+                          
+                              <td><a href="/owpc/pc/race/racelist?rno=3&jcd=19&hd=20210508">3R</a></td>
+                          
+                          
+
+                          
+                             
+                          
+                          
+                          <td><a href="/owpc/pc/race/racelist?rno=11&jcd=19&hd=20210508">11R</a></td>
+                          
+
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div><!-- /.table1 -->
+
                   
 
                   <div class="title9">
@@ -545,49 +595,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                       <tbody>
                         <tr class="is-p10-0">
-                          <td>2021/02/11<br/>～<br/>2021/02/14<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_20.png width="45" height="16" alt=若松  orteus="true" /></td>
+                          <td>2021/05/18<br/>～<br/>2021/05/23<br></td>
+                          <td><img src=/static_extra/pc/images/text_place1_08.png width="45" height="16" alt=常滑  orteus="true" /></td>
                               
                               
                           
-                          <td class="is-p10-5 is-ippan "></td>
-                          <td class=is-nighter></td>
-
-                          
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=20&hd=20210211">ニッカン・コム杯</a></td>
-                          
-                          
-
-                        </tr>
-                      </tbody>
-                      
-
-    
-  
-    
-
-    
-
-
-                      
-
-    
-      
-
-
-
-                      <tbody>
-                        <tr class="is-p10-0">
-                          <td>2021/02/20<br/>～<br/>2021/02/25<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_22.png width="45" height="16" alt=福岡  orteus="true" /></td>
-                              
-                              
-                          
-                          <td class="is-p10-5 is-ippan "></td>
+                          <td class="is-p10-5 is-G3b "></td>
                           <td class=&nbsp;></td>
 
                           
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=22&hd=20210220">福岡県知事杯争奪　福岡都市圏開設３１周年記念競走</a></td>
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=08&hd=20210518">ＩＮＡＸ杯争奪第３３回とこなめ大賞</a></td>
                           
                           
 
@@ -611,49 +628,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                       <tbody>
                         <tr class="is-p10-0">
-                          <td>2021/03/01<br/>～<br/>2021/03/07<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_20.png width="45" height="16" alt=若松  orteus="true" /></td>
+                          <td>2021/06/02<br/>～<br/>2021/06/05<br></td>
+                          <td><img src=/static_extra/pc/images/text_place1_14.png width="45" height="16" alt=鳴門  orteus="true" /></td>
                               
                               
                           
                           <td class="is-p10-5 is-ippan "></td>
-                          <td class=is-nighter></td>
+                          <td class=is-morning></td>
 
                           
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=20&hd=20210301">日本トーター杯ＢＴＳ北九州ＭＤ開設１４周年記念競走</a></td>
-                          
-                          
-
-                        </tr>
-                      </tbody>
-                      
-
-    
-  
-    
-
-    
-
-
-                      
-
-    
-      
-
-
-
-                      <tbody>
-                        <tr class="is-p10-0">
-                          <td>2021/03/16<br/>～<br/>2021/03/22<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_02.png width="45" height="16" alt=戸田  orteus="true" /></td>
-                              
-                              
-                          
-                          <td class="is-p10-5 is-ippan is-rookie__3rdadd"></td>
-                          <td class=&nbsp;></td>
-
-                          
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=02&hd=20210316">スカパー！・ＪＬＣ杯戸田ルーキーシリーズ第５戦</a></td>
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=14&hd=20210602">マクール杯競走</a></td>
                           
                           
 
@@ -780,7 +764,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li><a href="/owpc/pc/extra/privacy.html">プライバシーポリシー</a></li>
             <li><a href="/owpc/pc/extra/sitemap.html">サイトマップ</a></li>
             <li><a href="/owpc/pc/support/opinion">ご意見・ご要望</a></li>
-            <li><a href="/owpc/pc/extra/relation/index.html">関係団体</a></li>
+            <li><a href="/owpc/pc/extra/relation/index.html">ボートレース関係団体</a></li>
             <li><a href="/owpc/pc/extra/mailmag/index.html">メールマガジン購読</a></li>            
             <li><a href="/owpc/pc/extra/tb/support/tblink/index.html">テレボートリンク</a></li>
           </ul><!-- /.footerNav2_links -->
@@ -804,6 +788,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--------------------▲▲ dynamic_parts END▲▲ -------------------->
     </div><!-- /.l-footer -->
     <script src="/static_extra/pc/js/main.js"></script>
-  <script type="text/javascript" >var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/7e927fdbui198b1e2343128cf101e0']); </script><script type="text/javascript"  src="/webcontent/7e927fdbui198b1e2343128cf101e0"></script></body>
+  <script type="text/javascript" >var _cf = _cf || [];  _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/0c11df3aui2027af871a83c3e681c2']); </script><script type="text/javascript"  src="/webcontent/0c11df3aui2027af871a83c3e681c2"></script></body>
 
 </html>

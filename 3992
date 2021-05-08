@@ -545,41 +545,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                       <tbody>
                         <tr class="is-p10-0">
-                          <td>2021/02/20<br/>～<br/>2021/02/23<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_08.png width="45" height="16" alt=常滑  orteus="true" /></td>
-                              
-                              
-                          
-                          <td class="is-p10-5 is-ippan "></td>
-                          <td class=&nbsp;></td>
-
-                          
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=08&hd=20210220">スポーツニッポン杯争奪第３７回英傑戦</a></td>
-                          
-                          
-
-                        </tr>
-                      </tbody>
-                      
-
-    
-  
-    
-
-    
-
-
-                      
-
-    
-      
-
-
-
-                      <tbody>
-                        <tr class="is-p10-0">
-                          <td>2021/03/10<br/>～<br/>2021/03/14<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_07.png width="45" height="16" alt=蒲郡  orteus="true" /></td>
+                          <td>2021/05/09<br/>～<br/>2021/05/14<br></td>
+                          <td><img src=/static_extra/pc/images/text_place1_12.png width="45" height="16" alt=住之江  orteus="true" /></td>
                               
                               
                           
@@ -587,7 +554,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td class=is-nighter></td>
 
                           
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=07&hd=20210310">愛知バス杯争奪　ＡＢＣツアーカップ</a></td>
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=12&hd=20210509">報知新聞社賞第５７回ダイナミック敢闘旗</a></td>
                           
                           
 
@@ -611,8 +578,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                       <tbody>
                         <tr class="is-p10-0">
-                          <td>2021/03/20<br/>～<br/>2021/03/25<br></td>
-                          <td><img src=/static_extra/pc/images/text_place1_11.png width="45" height="16" alt=びわこ  orteus="true" /></td>
+                          <td>2021/06/15<br/>～<br/>2021/06/20<br></td>
+                          <td><img src=/static_extra/pc/images/text_place1_09.png width="45" height="16" alt=津  orteus="true" /></td>
                               
                               
                           
@@ -620,7 +587,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td class=&nbsp;></td>
 
                           
-                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=11&hd=20210320">報知新聞社杯争奪　第４３回びわこ王座決定戦</a></td>
+                              <td class="is-alignL is-fBold is-p10-10"><a href="/owpc/pc/race/assen?jcd=09&hd=20210615">次節開催は９月だよ！ＢＲ津競技棟工事記念</a></td>
                           
                           
 
@@ -747,7 +714,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li><a href="/owpc/pc/extra/privacy.html">プライバシーポリシー</a></li>
             <li><a href="/owpc/pc/extra/sitemap.html">サイトマップ</a></li>
             <li><a href="/owpc/pc/support/opinion">ご意見・ご要望</a></li>
-            <li><a href="/owpc/pc/extra/relation/index.html">関係団体</a></li>
+            <li><a href="/owpc/pc/extra/relation/index.html">ボートレース関係団体</a></li>
             <li><a href="/owpc/pc/extra/mailmag/index.html">メールマガジン購読</a></li>            
             <li><a href="/owpc/pc/extra/tb/support/tblink/index.html">テレボートリンク</a></li>
           </ul><!-- /.footerNav2_links -->
@@ -771,6 +738,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--------------------▲▲ dynamic_parts END▲▲ -------------------->
     </div><!-- /.l-footer -->
     <script src="/static_extra/pc/js/main.js"></script>
-  <script type="text/javascript" >var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/7e927fdbui198b1e2343128cf101e0']); </script><script type="text/javascript"  src="/webcontent/7e927fdbui198b1e2343128cf101e0"></script></body>
+  <script type="text/javascript" >var _cf = _cf || [];  _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/0c11df3aui2027af871a83c3e681c2']); </script><script type="text/javascript"  src="/webcontent/0c11df3aui2027af871a83c3e681c2"></script></body>
 
 </html>

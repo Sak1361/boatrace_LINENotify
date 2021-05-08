@@ -85,9 +85,10 @@ def check(name,data,time):
         else:
             #d = data_gen.__next__()
             r_name = re_num.sub("", d[10:])  # レース名のみ
-            return f"{name}は本日出場予定無し.\n次節は, {d[:21]}, ★{data[0][0]}★の\"{r_name}\"に出場予定"
-    except IndexError:
-        return f"[{name}]取得エラー."
+            return f"△{name}は本日出場予定無し.\n次節は, {d[:21]}, ★{data[0][0]}★の\"{r_name}\"に出場予定"
+    #except IndexError:
+    except :
+        return f"×{name}は斡旋情報の取得に失敗しました。斡旋情報が無い可能性があります。"
     """
     for d in data[1]:
         #print(name,d)
@@ -130,6 +131,7 @@ if __name__ == "__main__":
     tmp = []
     p_now = ""
     p_next = ""
+    p_error = ""
     for num in favo_num:
         scrape = Scrape(num)
         scrape.crawling()
@@ -139,10 +141,12 @@ if __name__ == "__main__":
     for p in tmp:   #その日に走る選手を先に表示
         if p[0] == "☆":
             p_now += p + "\n\n"
+        elif p[0] == "×":
+            p_error += p + "\n\n"
         else:
             p_next += p + "\n\n"
 
-    message = p_now + p_next + todays_boat
+    message = p_now + p_next + p_error + todays_boat
 
     Line_notify(message).send_message()
     #print(message)
